@@ -1,0 +1,22 @@
+p {
+    color: blue;
+    font-size:20pt;
+ }
+h1 {
+font-size: 50pt;
+color:red;
+font-weight: bold;
+ } 
+ h2 {font-size: 30pt;
+     color:blue;
+     font-weight: under;
+}
+ul{font-size:15pt;
+   font-weight:bolder;}
+p.sub-title1{color:pink;
+            font-size:20pt;}
+p#sub-title2{color:green; font-size:20pt;}
+div.square1{color:red;}
+div.box1{height:100px;width:100px; background-color: red;text-align:center;border-radius:10px;}
+div.box2{height:100px;width:100px; background-color:aqua;text-align:center;border-radius:50px;}
+div.box3{height:100px;width:100px; background-color:blanchedalmond;}
