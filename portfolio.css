@@ -1,0 +1,116 @@
+*{margin:0;
+  padding:0}
+body{background-color:#eeddbc;}
+div.text{height:100px;
+        margin:0 auto;
+        padding:15px 15;
+        width:auto;
+     
+  }
+img.cat{width:300px;
+        height:300px;}
+img.catleg{width:1000px;
+           height:100px;}
+
+p.maintext{font-size:25px;
+     font-family: 'serif';
+    
+     position:absolute;
+     color:#4a3b1d;
+     top: 400px;
+     left:700px;
+     }
+     p.maintext2{font-size:25px;
+      font-family: 'serif';
+     
+      position:absolute;
+      color:#4a3b1d;
+      top: 480px;
+      left:700px;
+      }
+      p.maintext3{font-size:25px;
+        font-family: 'serif';
+       
+        position:absolute;
+        color:#4a3b1d;
+        top: 560px;
+        left:700px;
+        }
+div.Welcome{height:70px;
+            width:auto;
+            font-weight: bold;
+            }
+p.Welcometo{font-size:50px;
+             font-family:'Monotype Corsiva';
+             color:#4a3b1d;
+             position: absolute;
+             top: 250px;
+             left:750px;}
+
+/* ロゴ */
+header{background-color:#bd9265 ;
+       width:100%;
+       height:105px;
+       padding: 15px 0;
+       margin: 0 auto;}
+ img{width:200px;
+    height:80px;
+     padding: 10px ;
+     margin:0;}
+  /* Aboutボタン */
+div.botton1{height:60px;
+            width:auto;
+            padding:10px;
+            margin:0;
+            }
+p.About{font-size: 30px;
+        font-family: 'Monotype Corsiva';
+        color:#fffde8;
+        position:absolute;
+        top:55px;
+         left:900px;}
+  /* Worksボタン */
+div.botton2{height:60px;
+          width:auto;
+          padding:10px;
+          margin:0;
+          }   
+p.Works{font-size: 30px;
+       font-family: 'Monotype Corsiva';
+      color:#fffde8;
+      position:absolute;
+      top:55px;
+       left:1030px;}
+/* Contactボタン */
+div.botton3{height:60px;
+        width:auto;
+        padding:10px;
+        margin:0;
+        }   
+p.Contact{font-size: 30px;
+     font-family: 'Monotype Corsiva';
+    color:#fffde8;
+    position:absolute;
+    top:55px;
+     left:1160px;}
+/* Langボタン */
+div.botton4{height:60px;
+      width:auto;
+      padding:10px;
+      margin:0;
+      }   
+p.lang{font-size: 30px;
+   font-family: 'Monotype Corsiva';
+   font-weight: bold;
+  color:#fffde8;
+  position:absolute;
+  top:55px;
+   left:1290px;}
+   footer{
+    width:100%;
+    height:100px;
+    color:#4a3b1d;
+    text-align:center;
+    display: inline;
+}
+
